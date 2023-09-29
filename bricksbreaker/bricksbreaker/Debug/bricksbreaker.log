@@ -1,0 +1,3 @@
+﻿  bricksbreaker.cpp
+C:\Users\Pooja\CG Project\bricksbreaker\bricksbreaker\bricksbreaker.cpp(230,9): warning C4101: 'i': unreferenced local variable
+  bricksbreaker.vcxproj -> C:\Users\Pooja\CG Project\bricksbreaker\Debug\bricksbreaker.exe
